@@ -11,9 +11,9 @@
 
 ## --------------Members---------------------------
 
-        # - positionName: Members
-        #   positionMembers:           
-        #     - img: people_family.jpg
+        - positionName: Members
+          positionMembers:           
+            - img: people_220401_1.jpeg
 
 ## --------------Professor---------------------------
 
