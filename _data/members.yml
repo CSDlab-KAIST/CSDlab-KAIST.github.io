@@ -72,8 +72,8 @@
               entered: 2018.0301
               
             - name: Huijae Kim
-              email: heejae6021@kaist.ac.kr
-              img: huijae.jpg
+              email: huijae.kim@kaist.ac.kr
+              img: huijae-2.jpeg
               career:
                - 2019.2 Sungkyunkwan University Dept. of Statistics, B.S.
                - 2021.2 KAIST Dept. of Industrial & Systems Engineering, M.S.    
@@ -82,6 +82,17 @@
               pageurl: /people/huijae
               cv:
               entered: 2019.03
+
+            - name: Jungwoo Kim
+              email: jungwoo415@kaist.ac.kr
+              img: jungwoo.jpg
+              career:
+               - 2021.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
+               - 2021.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S.-Ph.D. Integrated Program
+              interest: Behavioral Operation Research, Healthcare delivery system, Data analytics
+              pageurl: /people/jungwoo
+              cv:
+              entered: 2021.03
 
             - name: Wonjung Park
               email: wonjung.park@kaist.ac.kr
@@ -94,6 +105,20 @@
               pageurl: /people/wonjung
               cv:
               entered: 2021.09
+
+            - name: Ji-Su Lee
+              email: jisulee@kaist.ac.kr
+              img: jisu.jpg
+              career:
+               - 2014.2 Kyung Hee University, College of Korean Medicine, K.M.D.
+               - 2018.2 Seoul National University, School of Medicine, M.D.
+               - 2018.3 ~ 2019.2 Seoul National University Hospital, Intern
+               - 2019.3 ~ 2022.2 Seoul National University College of Medicine, Department of Health Policy and Management, Resident
+               - 2022.3 ~  KAIST Graduate School of Knowledge Service Engineering, Ph.D. Program
+              interest: Healthcare systems engineering, Health policy, Public health ethics
+              pageurl: /people/jisu
+              cv:
+              entered: 2022.03
 ## --------------MS Students------------------
 
         - positionName: M.S. Students
@@ -132,27 +157,27 @@
   #            cv:
   #            entered: 2019.03
 
-            - name: Hyewon Park
-              email: hyewon0901@kaist.ac.kr
-              img: hyewon-1.jpg
-              career:
-               - 2020.2 KAIST Dept. of Materials Science & Engineering, B.S.
-               - 2020.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-              interest: Data science, Epidemic simulation, Healthcare system
-              pageurl: /people/hyewon
-              cv:
-              entered: 2020.03
+            # - name: Hyewon Park
+            #   email: hyewon0901@kaist.ac.kr
+            #   img: hyewon-1.jpg
+            #   career:
+            #    - 2020.2 KAIST Dept. of Materials Science & Engineering, B.S.
+            #    - 2020.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+            #   interest: Data science, Epidemic simulation, Healthcare system
+            #   pageurl: /people/hyewon
+            #   cv:
+            #   entered: 2020.03
 
-            - name: Yuna Kim
-              email: garpkbr@kaist.ac.kr
-              img: yuna.jpg
-              career:
-               - 2019.2 DGIST School of Undergraduate Studies, B.S.
-               - 2019.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-              interest: Stochastic and statistic systems, Data science, Optimization
-              pageurl: /people/yuna
-              cv:
-              entered: 2020.03
+            # - name: Yuna Kim
+            #   email: garpkbr@kaist.ac.kr
+            #   img: yuna.jpg
+            #   career:
+            #    - 2019.2 DGIST School of Undergraduate Studies, B.S.
+            #    - 2019.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
+            #   interest: Stochastic and statistic systems, Data science, Optimization
+            #   pageurl: /people/yuna
+            #   cv:
+            #   entered: 2020.03
 
             - name: Junyoung Jung
               email: wwd2000@kaist.ac.kr
@@ -165,16 +190,16 @@
               cv:
               entered: 2020.09
 
-            - name: Jungwoo Kim
-              email: jungwoo415@kaist.ac.kr
-              img: jungwoo.jpg
+            - name: Yeo Jeong
+              email: faiiry9@kaist.ac.kr
+              img: jeong.jpeg
               career:
-               - 2021.2 KAIST Dept. of Industrial & Systems Engineering, B.S.
-               - 2021.3 ~  KAIST Dept. of Industrial & Systems Engineering, M.S. Program
-              interest: Epidemic simulation, Optimization
-              pageurl: /people/jungwoo
+               - 2022.2 UNIST Dept. of Human Factor Engineering, B.S.
+               - 2022.3 ~  KAIST Graduate School of Knowledge Service Engineering, M.S. Program
+              interest: Data science, Healthcare service system design
+              pageurl: /people/jeong
               cv:
-              entered: 2021.03
+              entered: 2022.03
 
 ## --------------Postdoctoral Researchers---------------------------
 
@@ -312,6 +337,8 @@
         - positionName: Alumni-M.S.
           positionMembers:
 
+
+
             - name: Heoksung Lee
               email:
               career: M.S., 2010
@@ -447,3 +474,19 @@
               currentOccupation: Samsung Electronics
               img: yoorim.jpg
               leavingDate: 2021.02
+
+            - name: Hyewon Park
+              email: 
+              career: M.S., 2022
+              thesis: Effectiveness of network-based social distancing policy considering adherence with quarantine policy
+              currentOccupation: EY Consulting
+              img: hyewon-1.jpg
+              leavingDate: 2022.02
+
+            - name: Yuna Kim
+              email: 
+              career: M.S., 2022
+              thesis: Rethinking the Value of Representation Pairs via Supervised Momentum Contrastive Learning
+              currentOccupation: Samsung Electronics
+              img: yuna.jpg
+              leavingDate: 2022.02
