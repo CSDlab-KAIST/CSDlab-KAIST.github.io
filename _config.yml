@@ -23,7 +23,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://csdlab.kaist.ac.kr" # the base hostname & protocol for your site
 destination: "C:/wamp64/www/csdlab/"
 # cover: "/assets/1155011.jpg"
-cover: "/assets/header_image.jpg"
+# cover: "/assets/header_image.jpg"
+cover: "/assets/KakaoTalk_Photo_2022-08-18-10-56-55.jpeg"
 logo: "/assets/logo.png"
 
 # Build settings
