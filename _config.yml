@@ -24,8 +24,8 @@ url: "http://csdlab.kaist.ac.kr" # the base hostname & protocol for your site
 destination: "C:/wamp64/www/csdlab/"
 # cover: "/assets/1155011.jpg"
 # cover: "/assets/header_image.jpg"
-# cover: "/assets/KakaoTalk_Photo_2022-08-18-10-56-55.jpeg"
-cover: "/assets/87-879470_computer-programming-coding-technology.jpg"
+cover: "/assets/KakaoTalk_Photo_2022-08-18-10-56-55.jpeg"
+# cover: "/assets/87-879470_computer-programming-coding-technology.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
