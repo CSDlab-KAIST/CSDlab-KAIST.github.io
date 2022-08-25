@@ -94,17 +94,17 @@
               cv:
               entered: 2021.03
 
-            - name: Wonjung Park
-              email: wonjung.park@kaist.ac.kr
-              img: wonjung.jpg
-              career:
-               - 2008.2 Hanyang University Dept. of Material Science and Engineering, B.S.
-               - 2020.2 Sogang University Dept. of Economics, M.S.    
-               - 2021.9 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
-              interest: System design, Data science
-              pageurl: /people/wonjung
-              cv:
-              entered: 2021.09
+#            - name: Wonjung Park
+#              email: wonjung.park@kaist.ac.kr
+#              img: wonjung.jpg
+#              career:
+#               - 2008.2 Hanyang University Dept. of Material Science and Engineering, B.S.
+#               - 2020.2 Sogang University Dept. of Economics, M.S.    
+#               - 2021.9 ~  KAIST Dept. of Industrial & Systems Engineering, Ph.D. Program
+#              interest: System design, Data science
+#              pageurl: /people/wonjung
+#              cv:
+#              entered: 2021.09
 
             - name: Ji-Su Lee
               email: jisulee@kaist.ac.kr
