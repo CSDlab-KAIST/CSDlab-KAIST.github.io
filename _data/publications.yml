@@ -2033,3 +2033,17 @@ papers:
     award: ""
     link: ""
  
+   - title: "Segmentized quarantine policy for managing a tradeoff between containment of infectious disease and social cost of quarantine"
+    author: "Kim, J. and Lee, T."
+    venue: "IISE Annual Conference and Expo 2022"
+    month: May 23
+    year: 2022
+    yearS: 2022.0523
+    location: Seattle, USA
+    topics:
+    type: conference-proceedings
+    materials:
+      - label:
+        url:
+    award: ""
+    link: "https://www.proquest.com/docview/2715838844/fulltextPDF/7A2CD037D8AC4C3FPQ/1?accountid=27828"
